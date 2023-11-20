@@ -17,12 +17,12 @@ Our mission is to create a government that operates with maximum efficiency and 
 
 MunicipalAI's approach to waste reduction is centered around some key beliefs. It's still under development and will evolve over time.:
 
-* **Automation:** Artificial intelligence should attempt to automate most repetitive government jobs in the future.
+* **Automation:** Artificial intelligence-if we like it or not- will attempt to automate repetitive government jobs in the future.
 * **Doomism:** We do not believe in AI doom, but seek to use AI as a catalyst for human evolution.
 * **Efficiency:** While efficiency isn't everything, allowing organizations to add more people instead of attempting to automate will only add complexity and waste.
 * **Financial Freedom:** We believe people thrive when they have the financial freedom to pursue their passions.
 * **Free Choice:** We believe in freedom of choice and do not seek to completely automate decision making within the democratic process.  Most of our focus is in automating the operational side of Government, not the political side.
-* **Norm:** We recognize our views do not fall within the norm, but also recognize significant change will not come from +-2 standard deviations.
+* **Norm:** We recognize our views do not fall within the norm, but also recognize significant change will not come from ideas within +-2 standard deviations.
 * **Peace:** Peaceful transitions are a must, and making drastic changes that damage a significant group of humans is unethical.
 * **UBI:** Universal Basic Income, with the right support, may be a better option than creating more unecessary jobs within government. See Financial Freedom.
 
