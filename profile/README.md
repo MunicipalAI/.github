@@ -8,7 +8,7 @@ MunicipalAI is an open source project dedicated to leveraging the power of autom
 
 Our mission is to create a government that operates with maximum efficiency and transparency, where every dollar is used responsibly and effectively. We aim to achieve this goal by:
 
-* Identifying nationwide macro issues in local government using qualititive and quantitative assessment
+* Identifying nationwide macro issues in local government using qualitative and quantitative assessment
 * Developing and implementing innovative AI-powered solutions that eliminates wasteful spending
 * Collaborating with government agencies to enhance their operational efficiency and reduce unethical behavior
 * Educating the public about the importance of fiscal responsibility and the role of technology in promoting it
